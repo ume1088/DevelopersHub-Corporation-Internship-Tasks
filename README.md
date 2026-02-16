@@ -1,14 +1,5 @@
 # DevelopersHub-Corporation-Internship-Tasks
 
-# Machine Learning Internship Projects
-
-This repository showcases three machine learning projects completed during my internship.  
-Each project emphasizes data analysis, visualization, and predictive modeling using Python.
-
----
-
-## Machine Learning Internship Projects
-
 ### **Task 1: Iris Dataset – Exploratory Data Analysis (EDA)**
 **Objective:**  
 Analyze the Iris dataset to understand feature distributions, detect patterns, and explore relationships between variables through visualizations.
