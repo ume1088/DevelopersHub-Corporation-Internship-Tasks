@@ -20,21 +20,22 @@ Build a classification model to predict the likelihood of heart disease using me
 
 ## 📂 Repository Structure
 
-├── Task-1/
+ Task-1/
 
 │ ├── Data/ → Dataset (CSV)
 │ ├── Notebook/ → Jupyter Notebook
 │ ├── Plots/ → Visualizations
 │ └── README.md
 │
-├── Task-2-HousePricePrediction/
+
+ Task-2-HousePricePrediction/
 
 │ ├── Data/
 │ ├── Notebook/
 │ ├── Plots/
 │ └── README.md
 
-│
+
 ├── Task-3-Heart Disease Prediction/
 
 │ ├── Data/
